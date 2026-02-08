@@ -1,0 +1,10 @@
+web3
+pandas
+numpy
+streamlit
+scikit-learn
+guardrails-ai
+langgraph
+plotly
+streamlit-extras
+requests
